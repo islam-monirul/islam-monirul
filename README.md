@@ -14,28 +14,28 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/monirshojib/monirshojib/blob/main/icons/c.png" alt="c" width="35" height="35"/> </a>
-<a href="https://www.java.com" target="_blank"> <img src="https://github.com/monirshojib/monirshojib/blob/main/icons/java.png" alt="java" width="35" height="35"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/monirshojib/monirshojib/blob/main/icons/javascript.png" alt="javascript" width="35" height="35"/> </a>
-<a href="https://www.php.net" target="_blank"> <img src="https://github.com/monirshojib/monirshojib/blob/main/icons/php.png" alt="php" width="35" height="35"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://github.com/monirshojib/monirshojib/blob/main/icons/python.png" alt="python" width="35" height="35"/> </a> <br>
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/islam-monirul/islam-monirul/blob/main/icons/c.png" alt="c" width="35" height="35"/> </a>
+<a href="https://www.java.com" target="_blank"> <img src="https://github.com/islam-monirul/islam-monirul/blob/main/icons/java.png" alt="java" width="35" height="35"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/islam-monirul/islam-monirul/blob/main/icons/javascript.png" alt="javascript" width="35" height="35"/> </a>
+<a href="https://www.php.net" target="_blank"> <img src="https://github.com/islam-monirul/islam-monirul/blob/main/icons/php.png" alt="php" width="35" height="35"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://github.com/islam-monirul/islam-monirul/blob/main/icons/python.png" alt="python" width="35" height="35"/> </a> <br>
 
 
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://github.com/monirshojib/monirshojib/blob/main/icons/django.png" alt="django" width="45" height="35"/> </a> 
-<a href="https://laravel.com/" target="_blank"> <img src="https://github.com/monirshojib/monirshojib/blob/main/icons/laravel.png" alt="laravel" width="70" height="35"/> </a> <br>
+<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://github.com/islam-monirul/islam-monirul/blob/main/icons/django.png" alt="django" width="45" height="35"/> </a> 
+<a href="https://laravel.com/" target="_blank"> <img src="https://github.com/islam-monirul/islam-monirul/blob/main/icons/laravel.png" alt="laravel" width="70" height="35"/> </a> <br>
 
 
 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/monirshojib/monirshojib/blob/main/icons/mysql.png" alt="mysql" width="70" height="35"/> </a> <br>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/islam-monirul/islam-monirul/blob/main/icons/mysql.png" alt="mysql" width="70" height="35"/> </a> <br>
 
 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/monirshojib/monirshojib/blob/main/icons/html5.png" alt="html5" width="35" height="35"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/monirshojib/monirshojib/blob/main/icons/css3.png" alt="css3" width="35" height="35"/> </a>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://github.com/monirshojib/monirshojib/blob/main/icons/bootstrap.png" alt="bootstrap" width="30" height="30"/> </a> <br>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/islam-monirul/islam-monirul/blob/main/icons/html5.png" alt="html5" width="35" height="35"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/islam-monirul/islam-monirul/blob/main/icons/css3.png" alt="css3" width="35" height="35"/> </a>
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://github.com/islam-monirul/islam-monirul/blob/main/icons/bootstrap.png" alt="bootstrap" width="30" height="30"/> </a> <br>
 
 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://github.com/monirshojib/monirshojib/blob/main/icons/ai.png" alt="illustrator" width="35" height="35"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://github.com/monirshojib/monirshojib/blob/main/icons/ps.png" alt="photoshop" width="35" height="35"/> </a> 
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://github.com/islam-monirul/islam-monirul/blob/main/icons/ai.png" alt="illustrator" width="35" height="35"/> </a>
+<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://github.com/islam-monirul/islam-monirul/blob/main/icons/ps.png" alt="photoshop" width="35" height="35"/> </a> 
 
 </p> <br>
 
