@@ -88,7 +88,7 @@
 [![Monirul Islam's Coding Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=islam-monirul&langs_count=8&count_private=true&layout=compact&title_color=CE2F5E&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/islam-monirul)
 
 ### Github Stats
-[![Monirul Islam's GitHub stats](https://github-readme-stats.vercel.app/api?username=islam-monirul&show_icons=true&title_color=F2346B&hide=contribs,prs&icon_color=F2346B&bg_color=0D1117&&text_color=ffffff&border_color=0D1117)](https://github.com/islam-monirul)
+[![Monirul Islam's GitHub stats](https://github-readme-stats.vercel.app/api?username=islam-monirul&show_icons=true&title_color=F2346B&icon_color=F2346B&bg_color=0D1117&&text_color=ffffff&border_color=0D1117)](https://github.com/islam-monirul)
 
 <image align="center" src="https://github-readme-stats.vercel.app/api?username=islam-monirul&show_icons=true&title_color=F2346B&icon_color=F2346B&bg_color=0D1117&&text_color=ffffff&border_color=0D1117"> 
 
