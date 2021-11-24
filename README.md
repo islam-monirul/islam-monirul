@@ -5,29 +5,36 @@ I am also a Level-2 freelancer on <a href="https://www.fiverr.com/monirshojib09"
 
 ### Tools & Technologies
 
+```yaml
+{
+  "languages": ["JavaScript", "C", "PHP", "Java", "TypeScript", "Python"],
+  "frontend":
     {
-      "languages": ["JavaScript", "C", "PHP","Java", "TypeScript", "Python"],
-      "frontend": {
-        "library/framework" : ["react.js", "next.js", "laravel"],
-      }
-    }
+      "library/framework": ["React.js", "Next.js"],
+      "component library": ["Bootstrap", "Tailwind CSS", "Material UI"],
+    },
+  "database": ["MySQL", "MongoDB"],
+  "backend": ["Node.js", "Express.js", "Laravel"],
+  "others": ["HTML", "CSS"],
+}
+```
 
 ### Currently work with
 
 <a href="https://reactjs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/2d174bef18a22964b0c1e5993e89f9ec71640fc8/icons/devicons/reactjs.svg"/>
+  <img alt="React.js" src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/2d174bef18a22964b0c1e5993e89f9ec71640fc8/icons/devicons/reactjs.svg"/>
 </a>
 <a href="https://nodejs.org/en/docs/" target="_blank">
-  <img src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/2d174bef18a22964b0c1e5993e89f9ec71640fc8/icons/devicons/nodejs.svg"/>
+  <img alt="Node.js" src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/2d174bef18a22964b0c1e5993e89f9ec71640fc8/icons/devicons/nodejs.svg"/>
 </a>
 <a href="https://expressjs.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/2d174bef18a22964b0c1e5993e89f9ec71640fc8/icons/devicons/expressjs.svg"/>
+  <img alt="Express.js" src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/2d174bef18a22964b0c1e5993e89f9ec71640fc8/icons/devicons/expressjs.svg"/>
 </a>
 <a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/2d174bef18a22964b0c1e5993e89f9ec71640fc8/icons/devicons/mongoDB.svg"/>
+  <img alt="MongoDB" src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/2d174bef18a22964b0c1e5993e89f9ec71640fc8/icons/devicons/mongoDB.svg"/>
 </a>
 
-## Where to find me!
+### Where to find me!
 
 [![Twitter Badge](https://img.shields.io/badge/-@monirshojib09-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/monirshojib09)](https://twitter.com/monirshojib09)
 [![Linkedin Badge](https://img.shields.io/badge/-monirshojib09-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monirshojib09/)
