@@ -40,7 +40,7 @@ Others: HTML | CSS
   <a href="mailto:devmonir.uiu.cse@gmail.com" target="_blank">
     <img alt="Gmail" src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/1cbb1131d8e67db9e2e543286ba978d9f4365158/icons/devicons/gmail.svg"/>
   </a>
-  <a href="[mailto:devmonir.uiu.cse@gmail.com](https://www.facebook.com/monirshojib09/)" target="_blank">
+  <a href="https://www.facebook.com/monirshojib09/" target="_blank">
     <img alt="Facebook" src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/1cbb1131d8e67db9e2e543286ba978d9f4365158/icons/devicons/fb.svg"/>
   </a>
 </div>
