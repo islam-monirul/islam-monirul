@@ -15,7 +15,7 @@ I am also a Level-2 freelancer on <a href="https://www.fiverr.com/monirshojib09"
 
 > Frontend Library & Frameworks <br/>
 
-  <div style="margin-left: 2.5rem">
+  <div style="padding-left: 2.5rem">
     <a href="https://reactjs.org/" target="_blank">
       <img alt="React.js" src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/2d174bef18a22964b0c1e5993e89f9ec71640fc8/icons/devicons/reactjs.svg"/>
     </a>
