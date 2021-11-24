@@ -16,7 +16,7 @@ Backend: Node.js | Express.js | Laravel
 Others: HTML | CSS
 ```
 
-### Currently work with
+### Currently working with
 
 <a href="https://reactjs.org/" target="_blank">
   <img alt="React.js" src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/2d174bef18a22964b0c1e5993e89f9ec71640fc8/icons/devicons/reactjs.svg"/>
