@@ -7,24 +7,24 @@ I am also a Level-2 freelancer on <a href="https://www.fiverr.com/monirshojib09"
 
 > Programming Languages <br/>
 
-  <div>
-    <a href="https://reactjs.org/" target="_blank">
-      <img alt="C" src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/2d174bef18a22964b0c1e5993e89f9ec71640fc8/icons/devicons/c.svg"/>
+ <div>
+    <a href="https://www.javatpoint.com/c-programming-language-tutorial" target="_blank">
+      <img alt="C" src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/cfdc227825e6a6f89657eb9c662440e13033a54b/icons/devicons/c.svg"/>
     </a>
-    <a href="https://reactjs.org/" target="_blank">
-      <img alt="JavaScript" src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/2d174bef18a22964b0c1e5993e89f9ec71640fc8/icons/devicons/js.svg"/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+      <img alt="JavaScript" src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/cfdc227825e6a6f89657eb9c662440e13033a54b/icons/devicons/js.svg"/>
     </a>
-    <a href="https://reactjs.org/" target="_blank">
-      <img alt="PHP" src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/2d174bef18a22964b0c1e5993e89f9ec71640fc8/icons/devicons/reactjs.svg"/>
+    <a href="https://www.php.net/" target="_blank">
+      <img alt="PHP" src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/cfdc227825e6a6f89657eb9c662440e13033a54b/icons/devicons/php.svg"/>
     </a>
-    <a href="https://reactjs.org/" target="_blank">
-      <img alt="Java" src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/2d174bef18a22964b0c1e5993e89f9ec71640fc8/icons/devicons/reactjs.svg"/>
+    <a href="https://www.w3schools.com/java/default.asp" target="_blank">
+      <img alt="Java" src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/cfdc227825e6a6f89657eb9c662440e13033a54b/icons/devicons/java.svg"/>
     </a>
-    <a href="https://reactjs.org/" target="_blank">
-      <img alt="TypeScript" src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/2d174bef18a22964b0c1e5993e89f9ec71640fc8/icons/devicons/reactjs.svg"/>
+    <a href="https://www.typescriptlang.org/" target="_blank">
+      <img alt="TypeScript" src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/cfdc227825e6a6f89657eb9c662440e13033a54b/icons/devicons/typeScript.svg"/>
     </a>
-    <a href="https://reactjs.org/" target="_blank">
-      <img alt="Python" src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/2d174bef18a22964b0c1e5993e89f9ec71640fc8/icons/devicons/reactjs.svg"/>
+    <a href="https://www.w3schools.com/python/" target="_blank">
+      <img alt="Python" src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/cfdc227825e6a6f89657eb9c662440e13033a54b/icons/devicons/py.svg"/>
     </a>
   </div>
 
