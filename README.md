@@ -1,7 +1,5 @@
 <h3>Hi 👋, I'm Monirul Islam</h3>
-<p>I have completed my graduation in 2021 from United International University on Computer Science & Engineering. I am working as a freelance Full Stack Web Developer for past 1-2 years.
-
-I am also a Level-2 freelancer on <a href="https://www.fiverr.com/monirshojib09" target="_blank"> Fiverr </a> where I provide web and graphic design services.</p>
+<p>I have recently completed my graduation from United International University on Computer Science & Engineering. I have huge interest in web development sector. I am working as a freelance Full Stack Web Developer for past 1-2 years.
 
 ### Tools & Technologies
 
@@ -36,19 +34,17 @@ Others: HTML | CSS
 ### Where to find me!
 
 <div>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img alt="MongoDB" src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/2d174bef18a22964b0c1e5993e89f9ec71640fc8/icons/devicons/mongoDB.svg"/>
+  <a href="https://www.linkedin.com/in/monirshojib09/" target="_blank">
+    <img alt="Linkedin" src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/1cbb1131d8e67db9e2e543286ba978d9f4365158/icons/devicons/linkedin.svg"/>
+  </a>
+  <a href="mailto:devmonir.uiu.cse@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/1cbb1131d8e67db9e2e543286ba978d9f4365158/icons/devicons/gmail.svg"/>
+  </a>
+  <a href="[mailto:devmonir.uiu.cse@gmail.com](https://www.facebook.com/monirshojib09/)" target="_blank">
+    <img alt="Facebook" src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/1cbb1131d8e67db9e2e543286ba978d9f4365158/icons/devicons/fb.svg"/>
   </a>
 </div>
 
-[![Twitter Badge](https://img.shields.io/badge/-@monirshojib09-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/monirshojib09)](https://twitter.com/monirshojib09)
-[![Linkedin Badge](https://img.shields.io/badge/-monirshojib09-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monirshojib09/)
-[![Mail Badge](https://img.shields.io/badge/-devmonir-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:devmonir.uiu.cse@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/-monirshojib09-1773EA?style=flat&labelColor=1773EA&logo=facebook&logoColor=white)](https://www.facebook.com/monirshojib09/)
-[![Instagram Badge](https://img.shields.io/badge/-@monirshojib09-D23667?style=flat&labelColor=D23667&logo=instagram&logoColor=white)](https://instagram.com/monirshojib09)
-
-<br/>
-
-### Coding Stats
+### My Coding Stats
 
 [![Monirul Islam's Coding Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=islam-monirul&langs_count=8&count_private=true&layout=compact&title_color=CE2F5E&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/islam-monirul)
