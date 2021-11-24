@@ -3,7 +3,16 @@
 
 I am also a Level-2 freelancer on <a href="https://www.fiverr.com/monirshojib09" target="_blank"> Fiverr </a> where I provide web and graphic design services.</p>
 
-### Currently work with :
+### Tools & Technologies
+
+    {
+      "languages": ["JavaScript", "C", "PHP","Java", "TypeScript", "Python"],
+      "frontend": {
+        "library/framework" : ["react.js", "next.js", "laravel"],
+      }
+    }
+
+### Currently work with
 
 <a href="https://reactjs.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/2d174bef18a22964b0c1e5993e89f9ec71640fc8/icons/devicons/reactjs.svg"/>
