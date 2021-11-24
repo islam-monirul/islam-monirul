@@ -3,6 +3,10 @@
 
 I am also a Level-2 freelancer on <a href="https://www.fiverr.com/monirshojib09" target="_blank"> Fiverr </a> where I provide web and graphic design services.</p>
 
+```yml
+Currently work with: React.js | Node.js | Express.js | MongoDB
+```
+
 ### Tools & Technologies
 
 > Programming Languages <br/>
@@ -36,6 +40,20 @@ I am also a Level-2 freelancer on <a href="https://www.fiverr.com/monirshojib09"
     <a href="https://reactjs.org/" target="_blank">
       <img alt="React.js" src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/2d174bef18a22964b0c1e5993e89f9ec71640fc8/icons/devicons/reactjs.svg"/>
     </a>
+    <a href="https://reactjs.org/" target="_blank">
+      <img alt="React.js" src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/2d174bef18a22964b0c1e5993e89f9ec71640fc8/icons/devicons/nextjs.svg"/>
+    </a>
+  </div>
+  <div>
+    <a href="https://getbootstrap.com/" target="_blank">
+      <img alt="Bootstrap" src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/cfdc227825e6a6f89657eb9c662440e13033a54b/icons/devicons/bootstrap.svg"/>
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank">
+      <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/93e46b93740a3f96ef55f80311c32eeab97a9ced/icons/devicons/tailwindcss.svg"/>
+    </a>
+    <a href="https://mui.com/" target="_blank">
+      <img alt="Material UI" src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/93e46b93740a3f96ef55f80311c32eeab97a9ced/icons/devicons/material%20ui.svg"/>
+    </a>
   </div>
 
 <!-- ```yaml
@@ -52,7 +70,7 @@ I am also a Level-2 freelancer on <a href="https://www.fiverr.com/monirshojib09"
 }
 ``` -->
 
-### Currently work with
+<!-- ### Currently work with
 
 <a href="https://reactjs.org/" target="_blank">
   <img alt="React.js" src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/2d174bef18a22964b0c1e5993e89f9ec71640fc8/icons/devicons/reactjs.svg"/>
@@ -65,7 +83,7 @@ I am also a Level-2 freelancer on <a href="https://www.fiverr.com/monirshojib09"
 </a>
 <a href="https://www.mongodb.com/" target="_blank">
   <img alt="MongoDB" src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/2d174bef18a22964b0c1e5993e89f9ec71640fc8/icons/devicons/mongoDB.svg"/>
-</a>
+</a> -->
 
 ### Where to find me!
 
