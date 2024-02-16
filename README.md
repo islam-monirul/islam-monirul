@@ -1,49 +1,41 @@
-<h3>Hi 👋, I'm Monirul Islam</h3>
-<p>I have recently completed my graduation from United International University on Computer Science & Engineering. I have huge interest in web development sector. I am working as a freelance Full Stack Web Developer for past 1-2 years.
+Hi 👋, I'm MONIRUL ISLAM
 
-### Tools & Technologies
+I am a Software Engineer who loves to work with JavaScript. I've completed my bachelor's in Computer Science & Engineering from <a href="https://www.uiu.ac.bd/" target="_blank">United International University, Bangladesh.</a> After Completing my graduation I worked as an Assistant Programmer at <a href="https://iict.buet.ac.bd/" target="_blank">IICT, BUET</a> for 2 years. 
 
-```yml
-Programming Laguages: C | JavaScript | PHP | Java | TypeScript | Python
+Currently, I am doing my masters in Software Engineering at <a href="https://www.mun.ca/" target="_blank">Memorial University of Newfoundland, Canada.</a>
 
-# Frontend
-Library/Framework: React.js | Next.js
-Component Library: Bootstrap | Tailwind CSS | Material UI
+#### Programming Languages
 
-Database: MySQL | MongoDB
-Backend: Node.js | Express.js | Laravel
+![C](https://img.shields.io/badge/C-00599C.svg?&style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?&style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white)
 
-Others: HTML | CSS
-```
 
-### Currently working with
+#### Frontend Framework and Library
 
-<a href="https://reactjs.org/" target="_blank">
-  <img alt="React.js" src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/2d174bef18a22964b0c1e5993e89f9ec71640fc8/icons/devicons/reactjs.svg"/>
-</a>
-<a href="https://nodejs.org/en/docs/" target="_blank">
-  <img alt="Node.js" src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/2d174bef18a22964b0c1e5993e89f9ec71640fc8/icons/devicons/nodejs.svg"/>
-</a>
-<a href="https://expressjs.com/" target="_blank">
-  <img alt="Express.js" src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/2d174bef18a22964b0c1e5993e89f9ec71640fc8/icons/devicons/expressjs.svg"/>
-</a>
-<a href="https://www.mongodb.com/" target="_blank">
-  <img alt="MongoDB" src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/2d174bef18a22964b0c1e5993e89f9ec71640fc8/icons/devicons/mongoDB.svg"/>
-</a>
+![React](https://img.shields.io/badge/React-20232A.svg?&style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?&style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?&style=flat-square&logo=tailwind-css&logoColor=white) </br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat-square&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-hotpink.svg?style=flat-square&logo=sass&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB.svg?style=flat-square&logo=material-ui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=flat-square&logo=bootstrap&logoColor=white)
 
-### Where to find me!
 
-<div>
-  <a href="https://www.linkedin.com/in/monirshojib09/" target="_blank">
-    <img alt="Linkedin" src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/1cbb1131d8e67db9e2e543286ba978d9f4365158/icons/devicons/linkedin.svg"/>
-  </a>
-  <a href="mailto:devmonir.uiu.cse@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/1cbb1131d8e67db9e2e543286ba978d9f4365158/icons/devicons/gmail.svg"/>
-  </a>
-  <a href="https://www.facebook.com/monirshojib09/" target="_blank">
-    <img alt="Facebook" src="https://raw.githubusercontent.com/islam-monirul/islam-monirul/1cbb1131d8e67db9e2e543286ba978d9f4365158/icons/devicons/fb.svg"/>
-  </a>
-</div>
+#### Backend Framework and Library
+
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000.svg?&style=flat-square&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE.svg?&style=flat-square&logo=Prisma&logoColor=white)
+
+#### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat-square&logo=mongodb&logoColor=white)
 
 ### My Coding Stats
 
