@@ -1,6 +1,6 @@
 Hi 👋, I'm MONIRUL ISLAM
 
-I am a Software Engineer who loves to work with JavaScript. I've completed my bachelor's in Computer Science & Engineering from <a href="https://www.uiu.ac.bd/" target="_blank">United International University, Bangladesh.</a> After Completing my graduation I worked as an Assistant Programmer at <a href="https://iict.buet.ac.bd/" target="_blank">IICT, BUET</a> for 2 years. 
+I am a Software Engineer who loves to work with JavaScript. I've completed my bachelor's in Computer Science & Engineering from <a href="https://www.uiu.ac.bd/" target="_blank">United International University, Bangladesh.</a> After Completing my graduation, I worked as an Assistant Programmer at <a href="https://iict.buet.ac.bd/" target="_blank">IICT, BUET</a> for two years. 
 
 Currently, I am doing my masters in Software Engineering at <a href="https://www.mun.ca/" target="_blank">Memorial University of Newfoundland, Canada.</a>
 
